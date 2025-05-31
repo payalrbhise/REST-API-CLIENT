@@ -1,1 +1,28 @@
-# REST-API-CLIENT
+# REST-API-CLIENT : WRITE A JAVA APPLICATION THAT CONSUMES A PUBLIC REST API
+(E.G., FETCHING WEATHER DATA) 
+AND DISPLAYS THE DATA IN A STRUCTURED FORMAT.DELIVERABLE: A JAVA PROGRAM THAT HANDLES HTTP REQUESTS AND PARSES JSON RESPONSES.
+
+# DETAILS :
+NAME : PAYAL RAMES BHISE
+INTERN ID : CT04DK962
+DOMAIN : JAVA PROGRAMMING
+DURATION : 4 WEEKS
+
+
+# SETUP REQUIREMENT :
+1. DOWNLOAD JSON LIBRARY ; From: https://mvnrepository.com/artifact/org.json/json
+2. COMPILE USING COMMAND ; javac -cp .;json-20240303.jar SimpleWeatherFetcher.java   (# Windows)
+3. COMPILE USING ; java -cp .;json-20240303.jar SimpleWeatherFetcher
+4. OUTPUT DISPLAYED ;
+
+# OUTPUT :
+🌦️ Weather Summary
+------------------------
+Temperature : 22.5°C
+Wind Speed  : 13.2 km/h
+Timestamp   : 2025-06-01T10:00
+------------------------
+
+
+
+
